@@ -1,0 +1,26 @@
+{
+  "name": "ros-rviz",
+  "version": "1.0.2",
+  "description": "An element for ROS visualizations.",
+  "main": "ros-rviz.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearpathrobotics/ros-rviz.git"
+  },
+  "keywords": [
+    "web-component",
+    "ros"
+  ],
+  "author": "Justin Huang <jstn@cs.washington.edu>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/clearpathrobotics/ros-rviz/issues"
+  },
+  "homepage": "https://github.com/clearpathrobotics/ros-rviz#readme"
+}
