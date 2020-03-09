@@ -22,5 +22,35 @@
   "bugs": {
     "url": "https://github.com/clearpathrobotics/ros-rviz/issues"
   },
-  "homepage": "https://github.com/clearpathrobotics/ros-rviz#readme"
+  "homepage": "https://github.com/clearpathrobotics/ros-rviz#readme",
+  "dependencies": {
+    "@justinhuang/ros-websocket": "github:jstnhuang/ros-websocket",
+    "@polymer/app-layout": "github:PolymerElements/app-layout",
+    "@polymer/iron-collapse": "^3.0.1",
+    "@polymer/iron-flex-layout": "^3.0.1",
+    "@polymer/iron-icons": "^3.0.1",
+    "@polymer/iron-image": "^3.0.2",
+    "@polymer/iron-resizable-behavior": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-checkbox": "^3.1.0",
+    "@polymer/paper-dialog": "github:PolymerElements/paper-dialog",
+    "@polymer/paper-drawer-panel": "^3.0.2",
+    "@polymer/paper-dropdown-menu": "^3.1.0",
+    "@polymer/paper-fab": "^3.0.1",
+    "@polymer/paper-icon-button": "^3.0.2",
+    "@polymer/paper-item": "^3.0.1",
+    "@polymer/paper-listbox": "^3.0.1",
+    "@polymer/paper-menu-button": "^3.0.1",
+    "@polymer/paper-radio-button": "^3.0.1",
+    "@polymer/paper-radio-group": "^3.0.1",
+    "@polymer/paper-styles": "^3.0.1",
+    "@polymer/paper-tooltip": "^3.0.1",
+    "polymer": "^0.5.0",
+    "ros3djs": "github:RobotWebTools/ros3djs#0978eb4773d3aa4891e4c73449398fe124df9c34",
+    "web-animations-js": "^2.3.2"
+  },
+  "devDependencies": {
+    "@polymer/iron-component-page": "github:PolymerElements/iron-component-page",
+    "web-component-tester": "^6.9.2"
+  }
 }
