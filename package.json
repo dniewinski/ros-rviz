@@ -46,6 +46,7 @@
     "@polymer/paper-styles": "^3.0.1",
     "@polymer/paper-tooltip": "^3.0.1",
     "polymer": "^0.5.0",
+    "ros-service": "github:dniewinski/ros-service",
     "ros3djs": "github:RobotWebTools/ros3djs#0978eb4773d3aa4891e4c73449398fe124df9c34",
     "web-animations-js": "^2.3.2"
   },
